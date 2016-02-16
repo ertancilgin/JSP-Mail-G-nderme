@@ -1,1 +1,1 @@
-# JSP-Mail-G-nderme
+# JSP-Mail-Gönderme
